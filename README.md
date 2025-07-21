@@ -15,4 +15,4 @@ A personal project for a quantitative approach to portfolio construction and ana
 
 ## Completed: 
 - Portflio construction, application of Markowitz Portfolio Theory for portfolio wieghting to maximise Sharpe ratio
-
+- Fundamental Analysis is applied in the Quantitative Selection Process. 4 key fundamentals metrics then weighted by importance via PCA, then all stocks in S&P500 are scored
