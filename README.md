@@ -6,6 +6,7 @@ A personal project for a quantitative approach to portfolio construction and ana
   Ideas: 
   - Sentiment Analysis for stock selection
   - Momentum based stock selection
+  - A file that continuisly runs to collect and report updated data 
 
 #### 2) Track, analyse, and model the performance of any constructed portfolio
 
