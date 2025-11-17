@@ -1,6 +1,10 @@
 # Quantitative-Portfolio-Management-Project
 A personal project for a quantitative approach to portfolio construction and analytics
 
+## Completed: 
+- Portflio construction, application of Markowitz Portfolio Theory for portfolio wieghting to maximise Sharpe ratio
+- Fundamental Analysis is applied in the Quantitative Selection Process. 4 key fundamentals metrics are weighted by importance via PCA, then all stocks in S&P500 are scored
+
 ## Goals: 
 #### 1) Build an equity selection process for a portfolio via quantitative means from various portfolio construction techniques
   Ideas: 
@@ -12,8 +16,6 @@ A personal project for a quantitative approach to portfolio construction and ana
 
 #### 3) Rebalance a portfolio based and performance metrics and portfolio objective
 
-#### 4) Reporting of portfolio strategy, methodolgy, and performance 
+#### 4) Reporting of portfolio attribution, performance, strategy, and methodolgy
 
-## Completed: 
-- Portflio construction, application of Markowitz Portfolio Theory for portfolio wieghting to maximise Sharpe ratio
-- Fundamental Analysis is applied in the Quantitative Selection Process. 4 key fundamentals metrics then weighted by importance via PCA, then all stocks in S&P500 are scored
+
